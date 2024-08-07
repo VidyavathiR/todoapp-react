@@ -35,4 +35,4 @@ A simple and interactive Todo application built with React and styled with Toast
 
 ---
 
-
+Thank you for checking out!
