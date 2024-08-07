@@ -25,7 +25,7 @@ A simple and interactive Todo application built with React and styled with Toast
 
 ## Screenshots
 
-![Todo App Screenshot](https://via.placeholder.com/600x400?text=Todo+App+Screenshot)
+![Todo App Screenshot](https://github.com/VidyavathiR/todoapp-react/blob/main/vite-project/Screenshot%202024-08-07%20124332.png)
 
 
 ## Acknowledgements
